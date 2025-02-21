@@ -3,7 +3,7 @@
 ### (3) 💡 Finding inspiration on GitHub: star, follow, download and contribute. 
 ### (4) ⬇️ Downloading files from GitHub: download, clone, fork.
 ### (5) ⬆️ Uploading a project to GitHub: version control, Back up, Pin, Share and discuss.
-### (6)
+### (6) 📂 Git and GitHub learning resources
 ### (7)
 ### (8)
 ### (9)
