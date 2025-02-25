@@ -9,6 +9,15 @@
 
 # Onboarding
 ### (1) 🚀Getting started with your GitHub account.
-#### (1.1) 🌐 Working with GitHub Pages.
-##### (1.1.1) 🌐 About GitHub Pages [Link](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+### (2) 🌐 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+- [x] About GitHub Pages
+- [x] Creating a GitHub Pages site
+- [ ] Using custom workflows with GitHub Pages
+- [ ] Configuring a publishing source for your GitHub Pages site
+- [ ] Deleting a GitHub Pages site
+- [ ] Unpublishing a GitHub Pages site
+- [ ] Creating a custom 404 page for your GitHub Pages site
+- [ ] Securing your GitHub Pages site with HTTPS
+- [ ] Using submodules with GitHub Pages
+- [ ] Troubleshooting 404 errors for GitHub Pages sites
 ### (0) 🔗 [GitHub Get Started](https://docs.github.com/en/get-started/)
