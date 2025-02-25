@@ -10,4 +10,5 @@
 # Onboarding
 ### (1) 🚀Getting started with your GitHub account.
 #### (1.1) 🌐 Working with GitHub Pages.
+##### (1.1.1) 🌐 About GitHub Pages [Link](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
 ### (0) 🔗 [GitHub Get Started](https://docs.github.com/en/get-started/)
