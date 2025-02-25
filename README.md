@@ -5,6 +5,9 @@
 ### (4) ⬇️ Downloading files from GitHub: download, clone, fork.
 ### (5) ⬆️ Uploading a project to GitHub: version control, Back up, Pin, Share and discuss.
 ### (6) 📂 Git and GitHub learning resources
-### (0) 🔗 [GitHub Get Started](https://docs.github.com/en/get-started/)
+### (7) 🔗 [GitHub Get Started](https://docs.github.com/en/get-started/)
 
 # Onboarding
+### (1) 🚀Getting started with your GitHub account.
+#### (1.1) 🌐 Working with GitHub Pages.
+### (0) 🔗 [GitHub Get Started](https://docs.github.com/en/get-started/)
