@@ -12,7 +12,7 @@
 ### (2) 🌐 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
 - [x] About GitHub Pages
 - [x] Creating a GitHub Pages site
-- [ ] Using custom workflows with GitHub Pages
+- [x] Using custom workflows with GitHub Pages
 - [ ] Configuring a publishing source for your GitHub Pages site
 - [ ] Deleting a GitHub Pages site
 - [ ] Unpublishing a GitHub Pages site
